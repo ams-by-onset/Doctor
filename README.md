@@ -1,2 +1,2 @@
-# Doktor
-Doktor pec/pep
+# Doctor
+Doctor pec/pep
